@@ -16,3 +16,6 @@ La nueva asignación en el classroom: https://classroom.github.com/classrooms/14
 
 ## Añade aquí tu código de bloques, este es un ejemplo:
 
+![](bloques1.png)
+![](bloques2.png)
+
