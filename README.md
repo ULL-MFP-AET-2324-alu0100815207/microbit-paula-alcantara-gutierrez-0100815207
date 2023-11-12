@@ -20,5 +20,7 @@ https://classroom.microbit.org/sessions/live
 
 ## Añade aquí tu código de bloques, este es un ejemplo:
 
-![](bloques1.png)![](bloques2.png)
+![](bloques1.png)
+![](bloques2.png)
+
 *Si necesitas ayuda, puedes descargar el archivo "**microbit-Untitled (1).hex**" y luego arrastrarlo a tu pantalla de Microbit y se cargará el código de bloques de las imágenes anteriores. A partir de ahí, podrás hacer los cambios que quieras para que tenga nuevas funcionalidades*
