@@ -23,4 +23,4 @@ https://classroom.microbit.org/sessions/live
 ![](bloques1.png)
 ![](bloques2.png)
 
-Si necesitas ayuda, puedes arrastrar el archivo "microbit-Untitled (1).hex" a tu pantalla de Microbit y se cargará el código de bloques de las imágenes anteriores. A partir de ahí, podrás hacer los cambios que quieras para que tenga nuevas funcionalidades
+*Si necesitas ayuda, puedes arrastrar el archivo "**microbit-Untitled (1).hex**" a tu pantalla de Microbit y se cargará el código de bloques de las imágenes anteriores. A partir de ahí, podrás hacer los cambios que quieras para que tenga nuevas funcionalidades*
