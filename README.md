@@ -1,20 +1,11 @@
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
-## Edit this project
+## Enlaces
 
-To edit this repository in MakeCode.
+Mi organización: https://github.com/ULL-MFP-AET-2324-alu0100815207
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import URL** then click on **Import URL**
-* paste **https://github.com/ULL-MFP-AET/microbit-alu-XXXX/** and click import
+Mi classroom: https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207
 
-#### Metadata (used for search, rendering)
+La nueva asignación en el classroom: https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207/assignments/microbit-paula
 
-* for PXT/microbit
-
-
-<script src="https://makecode.com/gh-pages-embed.js">
-</script>
-<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");
-</script>
