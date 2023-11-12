@@ -14,6 +14,10 @@ La nueva asignación en el classroom: https://classroom.github.com/classrooms/14
 * Tal y como vimos en clase, intenta que la placa de Microbit muestre un conteo del 0 al 10 al pulsar el botón "A"
 * Luego intenta que, al presionar el botón "B", muestre dicho conteo pero a la inversa.
 
+# Enlace para acceder a Microbit
+
+https://classroom.microbit.org/sessions/live
+
 ## Añade aquí tu código de bloques, este es un ejemplo:
 
 ![](bloques1.png)
